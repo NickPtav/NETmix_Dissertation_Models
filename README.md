@@ -18,7 +18,7 @@ $Re = ρ . v . d / μ$
 Foi feito uma análise dos tipos de modelos possíveis, e 18 modelos foram escolhidos com a realização de algumas modificações que vão impactar na discussão do trabalho. 
 Os calculos e resultados estão na pasta "Volume_calculation"
 
-MODELOS SEM CANAIS HORIZONTAIS
+## MODELOS SEM CANAIS HORIZONTAIS
 |I	|c_h (mm)|	r_p (mm)|	num_rows	|num_columns|	r_d (mm)|	extr (mm)|	Volume (mm^3)|	Vol_ratio|	cc_ratio|
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|------|
 |93	|1.625|	3.50|	10|	6|	3.5|	3|	13494.495639|	0.101662|	4.307692|
@@ -31,7 +31,7 @@ MODELOS SEM CANAIS HORIZONTAIS
 |65	|0.500	|3.00	|20	|6	|3.5	|3	|22290.524512	|0.051308	|12.000000|
 |101|	0.875	|3.50	|30	|6	|3.5	|3	|39833.966577	|0.058030	|8.000000|
 
-MODELOS COM CANAIS HORIZONTAIS
+## MODELOS COM CANAIS HORIZONTAIS
 |I	|c_h (mm)|	r_p (mm)|	num_rows	|num_columns|	r_d (mm)|	extr (mm)|	Volume (mm^3)|	Vol_ratio|	cc_ratio|
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|------|
 |93	|1.625|	3.50|	10|	6|	3.5|	3|	15378.193806|	0.089209	|4.307692|
