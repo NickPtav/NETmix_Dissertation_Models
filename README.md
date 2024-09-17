@@ -21,7 +21,7 @@ Os calculos e resultados estão na pasta "Volume_calculation"
 Modelos escolhidos
 
 
-|I	|c_h|	r_p|	num_rows	|num_columns|	r_d|	extr|	Volume|	Vol_ratio|	cc_ratio|
+|I	|c_h (mm)|	r_p (mm)|	num_rows	|num_columns|	r_d (mm)|	extr (mm)|	Volume (mm^3)|	Vol_ratio|	cc_ratio|
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|------|
 |93	|1.625|	3.50|	10|	6|	3.5|	3|	13494.495639|	0.101662|	4.307692|
 |21	|0.875	|2.25	|20	|6	|3.5	|3	|19460.100295	|0.142161	|5.142857|
