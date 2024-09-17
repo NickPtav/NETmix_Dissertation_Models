@@ -1,22 +1,6 @@
-Nesse repositório temos o arquivo responsável pela geração de geometrias no Speos via script, além de conter as geometrias já prontas.
-Os modelos são:
+Os modelos forma escolhido de acordo com parâmetros relevantes na modelagem do processo.
+No trabalho de Laranjeiras "NETmix static mixer , modeling CFD simulation and Experimental Characterisation), 2005, ele apresentou a modelagem do reator.
 
-M1 - Homogêneo Base
-r_p = r_d = 3.0 mm
-angulo_abertura = 1.5 mm
+Entre os parâmetros, a relação entre volume de canal e volume do reator é importante para a importância de mistura, chamado "segregação", pois basicamente a mistura no reator ocorre dentro das camaras, enquanto nos canais não há mistura, ou seja, quanto maior o volume dos canais em relação ao volume do reator, pior será a mistura. 
 
-M2 - Homogêneo com canais horizontais
-horizontal = True
-r_p = r_d = 3.0 mm
-angulo_abertura = 1.5 mm
-
-M3 - Heterogeneo Base
-r_p = 2.8
-r_d = 3.2
-angulo_abertura = 1.5 mm
-
-M4 - Heterogeneo com canais horizontais
-horizontal = True
-r_p = 2.8
-r_d = 3.2
-angulo_abertura = 1.5 mm
+ $α = Vchannel / Vnetwork$
