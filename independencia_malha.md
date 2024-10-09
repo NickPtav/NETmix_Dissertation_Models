@@ -23,9 +23,9 @@ Malha1:
   skewness: 0.00031416 - 0.56812
 Malha2:
   tam. elemento: 2e-4m
-  elementos: 2.039.580
-  orthogonal quality: 0.3902 - 1.0
-  skewness: 9.78e-8 - 0.8836
+  elementos: 1.262.920
+  orthogonal quality: 0.30 - 1.0
+  skewness: 5.92e-6 - 0.8818
 Malha3:
   tam. elemento: 1.6e-4m
   elementos: 3.959.806
